@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class Script : MonoBehaviour
 {
+    // Update is called once per frame
+
     // Start is called before the first frame update
     AudioSource aaudio;
+    
     void Start()
     {
         aaudio.mute = false;
@@ -15,5 +18,9 @@ public class Script : MonoBehaviour
     void Update()
     {
         
+
     }
+
+    // Update is called once per frame
+
 }
