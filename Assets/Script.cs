@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class Ыскшзе : MonoBehaviour
 {
+    // Update is called once per frame
+
     // Start is called before the first frame update
     void Start()
     {
+       
         
     }
 
@@ -14,5 +17,9 @@ public class Ыскшзе : MonoBehaviour
     void Update()
     {
         
+
     }
+
+    // Update is called once per frame
+
 }
