@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4056684167",
+    "Type": "User",
+    "GUID": "{D9357FB0-495E-4DE7-BA6B-68B06263DEEE}",
+    "Language": "SFX",
+    "Hash": "{4618F892-88D5-7BAE-7385-F44B1A66AF92}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
+    "ShortName": "Master",
+    "Path": "Master.bnk",
+    "Media": [
+     {
+      "Id": "951277937",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience, Forest, By Lake, Wind in Leaves, Birds 01 SND0481.wav",
+      "CachePath": "66/{66B5BB3F-3EF3-D520-4855-AA0DAC590BA2}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3537656764",
+      "Name": "Ambi",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambi",
+      "GUID": "{27F77230-BA42-49FB-9E84-87976FE4AD63}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "951277937"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3C7833CD-CEF4-4ABA-2439-367FC3DBE7E1}"
+ }
+}

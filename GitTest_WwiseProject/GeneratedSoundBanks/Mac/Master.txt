@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3537656764	Ambi			\Default Work Unit\Ambi	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	951277937	Ambience, Forest, By Lake, Wind in Leaves, Birds 01 SND0481	C:\Users\BubaShit\Documents\GitHub\GitTest\GitTest_WwiseProject\.cache\66\{66B5BB3F-3EF3-D520-4855-AA0DAC590BA2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\ambi\Ambience, Forest, By Lake, Wind in Leaves, Birds 01 SND0481		4744800
+
